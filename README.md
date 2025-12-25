@@ -133,23 +133,10 @@ Key training parameters:
 
 See `configs/DualFrankaBottlePPO.yaml` for full config.
 
-## 📈 Results
-
-### Training Progress
-- Episode 1000: Avg reward = -15.2
-- Episode 5000: Avg reward = -5.8
-- Episode 10000: Avg reward = 8.3 ✅
-
-(Update với kết quả thật của bạn)
-
-### Performance Metrics
-- Success rate: 85%
-- Avg episode length: 234 steps
-- Training time: ~6 hours (RTX 3090)
 
 ## 🎥 Demo
 
-[Insert video/gif here]
+https://drive.google.com/file/d/1s1qrh8Y6NRhi9bTAf1gmNNkW_VUNmYph/view?usp=drive_link
 
 ## 🐛 Troubleshooting
 
